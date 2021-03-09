@@ -1,0 +1,6 @@
+framework module UIInsetsLabel {
+  umbrella header "UIInsetsLabel.h"
+
+  export *
+  module * { export * }
+}
